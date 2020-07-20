@@ -1,5 +1,0 @@
-2020/04/18-19:20:53.043 224af Reusing MANIFEST /home/yat/.config/chromium/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/04/18-19:20:56.323 19bb Level-0 table #5: started
-2020/04/18-19:20:56.324 19bb Level-0 table #5: 1342 bytes OK
-2020/04/18-19:20:56.326 19bb Delete type=0 #3
-2020/04/18-19:20:56.326 19bb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

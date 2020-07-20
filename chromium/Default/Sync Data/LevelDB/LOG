@@ -1,6 +1,0 @@
-2020/06/10-14:23:10.979 5d8e Reusing MANIFEST /home/yat/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/06/10-14:23:10.979 5d8e Recovering log #1684
-2020/06/10-14:23:10.982 5d8e Reusing old log /home/yat/.config/chromium/Default/Sync Data/LevelDB/001684.log 
-2020/06/10-14:24:10.582 5f6c Level-0 table #1688: started
-2020/06/10-14:24:10.585 5f6c Level-0 table #1688: 118118 bytes OK
-2020/06/10-14:24:10.586 5f6c Delete type=0 #1684
