@@ -1,0 +1,7 @@
+2020/04/16-02:40:57.261 33e5c4 Reusing MANIFEST /home/yat/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/16-02:40:57.261 33e5c4 Recovering log #3
+2020/04/16-02:40:57.264 33e5c4 Reusing old log /home/yat/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000003.log 
+2020/04/16-02:41:47.196 2717b3 Level-0 table #5: started
+2020/04/16-02:41:47.198 2717b3 Level-0 table #5: 44231 bytes OK
+2020/04/16-02:41:47.205 2717b3 Delete type=0 #3
+2020/04/16-02:41:47.205 2717b3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

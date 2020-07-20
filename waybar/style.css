@@ -1,0 +1,89 @@
+* {
+    border: none;
+    border-radius: 0;
+    /*font-family: Roboto, Helvetica, Arial, sans-serif;*/
+    font-family: Hack;
+    font-size: 13px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: rgba(46, 52, 64, 0.5);
+    color: #D8DEE9;
+}
+
+
+#workspaces button {
+    padding: 0 5px;
+    background: transparent;
+    color: white;
+    border-bottom: 3px solid transparent;
+}
+
+#workspaces button.focused {
+    background: #5E81AC;
+    border-bottom: 3px solid #88C0D0;
+    color: white;
+}
+
+#mode, #clock, #battery, #idle_inhibitor, #pulseaudio, #network, #temperature, #backlight {
+    padding: 0 10px;
+    margin: 0 5px;
+}
+
+#mode {
+    background: #64727D;
+    border-bottom: 3px solid white;
+}
+
+#clock {
+    background-color: rgba(43, 48, 59, 0);
+    border-bottom: 3px solid #b1c89d;
+}
+
+#battery {
+    background-color: rgba(43, 48, 59, 0);
+    border-bottom: 3px solid #b1c89d;
+}
+
+#battery.charging {
+    background-color: rgba(43, 48, 59, 0);
+    border-bottom: 3px solid #b1c89d;
+}
+
+@keyframes blink {
+    to {
+        background-color: #ffffff;
+        color: black;
+    }
+}
+
+#idle_inhibitor {
+    border-bottom: 3px solid #81A1C1;
+}
+
+#pulseaudio {
+    border-bottom: 3px solid #c46e77;
+}
+
+#network {
+    border-bottom: 3px solid #F1D8A7;
+}
+
+#temperature {
+    border-bottom: 3px solid #C2A3BC;
+}
+
+#backlight {
+    border-bottom: 3px solid #88C0D0;
+}
+
+#battery.warning:not(.charging) {
+    background: #f53c3c;
+    color: white;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}

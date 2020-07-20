@@ -1,0 +1,9 @@
+2020/01/08-17:56:59.535 27f4 Reusing MANIFEST /home/yat/.config/chromium/Default/IndexedDB/https_www.hampshire.edu_0.indexeddb.leveldb/MANIFEST-000001
+2020/01/08-17:57:05.239 2d0b Level-0 table #5: started
+2020/01/08-17:57:05.240 2d0b Level-0 table #5: 573 bytes OK
+2020/01/08-17:57:05.242 2d0b Delete type=0 #3
+2020/01/08-17:57:05.242 2d0b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/01/08-17:57:06.213 2d0b Level-0 table #7: started
+2020/01/08-17:57:06.213 2d0b Level-0 table #7: 553 bytes OK
+2020/01/08-17:57:06.215 2d0b Delete type=0 #4
+2020/01/08-17:57:06.215 2d0b Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

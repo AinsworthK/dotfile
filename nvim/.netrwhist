@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/yat/.config/Dharkael'
+let g:netrw_dirhist_7='/home/yat/AUR/polybar/.git'
+let g:netrw_dirhist_6='/home/yat/haskell/99hp/11-20'
+let g:netrw_dirhist_5='/home/yat/.config/mako'
+let g:netrw_dirhist_4='/home/yat/.dwm'
+let g:netrw_dirhist_3='/home/yat/dwm'
+let g:netrw_dirhist_2='/home/yat/AUR'
+let g:netrw_dirhist_1='/home/yat/python/csv2vcard'
+let g:netrw_dirhist_0='/etc'
+let g:netrw_dirhist_9='/home/yat/.config/sxhkd'

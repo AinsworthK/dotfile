@@ -1,0 +1,49 @@
+#! /bin/zsh
+
+
+$HOME/.config/polybar/launch.sh
+sxhkd &
+
+
+
+# desktop
+bspc monitor -d I II III IV V
+
+
+
+# restore layout
+bspc wm -l $HOME/.config/bspwm/state
+$HOME/.config/bspwm/command
+
+# auto start
+#bspc desktop -f ^2
+alacritty -e calcurse &
+sleep 1
+alacritty -e gotop &
+sleep 1
+alacritty &
+sleep 1
+alacritty &
+sleep 1
+alacritty -e ranger &
+nm-applet 
+
+
+
+# set margin
+bspc config top_padding 23
+
+# no border
+bspc config border_width         0
+# border and window
+#bspc config window_gap          12
+
+bspc config split_ratio          0.5
+
+# smart gaps
+
+#rules
+bspc rule -a Zathura state=fullscreen
+
+
+

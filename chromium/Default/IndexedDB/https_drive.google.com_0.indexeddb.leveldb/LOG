@@ -1,0 +1,24 @@
+2020/03/23-19:51:29.725 5f9bf Reusing MANIFEST /home/yat/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/03/23-19:51:29.726 5f9bf Recovering log #204
+2020/03/23-19:51:29.735 5f9bf Reusing old log /home/yat/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000204.log 
+2020/03/23-19:51:35.664 5fa21 Level-0 table #208: started
+2020/03/23-19:51:35.686 5fa21 Level-0 table #208: 4227386 bytes OK
+2020/03/23-19:51:35.696 5fa21 Delete type=0 #204
+2020/03/23-19:51:51.852 5fa21 Level-0 table #210: started
+2020/03/23-19:51:51.873 5fa21 Level-0 table #210: 5049118 bytes OK
+2020/03/23-19:51:51.877 5fa21 Delete type=0 #207
+2020/03/23-19:51:51.878 5fa21 Compacting 4@0 + 2@1 files
+2020/03/23-19:51:51.906 5fa21 Generated table #211@0: 357 keys, 2413297 bytes
+2020/03/23-19:51:51.927 5fa21 Generated table #212@0: 9 keys, 2139496 bytes
+2020/03/23-19:51:51.932 5fa21 Generated table #213@0: 21 keys, 993187 bytes
+2020/03/23-19:51:51.932 5fa21 Compacted 4@0 + 2@1 files => 5545980 bytes
+2020/03/23-19:51:51.933 5fa21 compacted to: files[ 0 3 2 0 0 0 0 ]
+2020/03/23-19:51:51.933 5fa21 Delete type=2 #200
+2020/03/23-19:51:51.933 5fa21 Delete type=2 #203
+2020/03/23-19:51:51.933 5fa21 Delete type=2 #205
+2020/03/23-19:51:51.933 5fa21 Delete type=2 #208
+2020/03/23-19:51:51.933 5fa21 Delete type=2 #201
+2020/03/23-19:51:51.933 5fa21 Delete type=2 #210
+2020/03/23-19:51:52.346 5fa21 Level-0 table #215: started
+2020/03/23-19:51:52.367 5fa21 Level-0 table #215: 4838996 bytes OK
+2020/03/23-19:51:52.369 5fa21 Delete type=0 #209

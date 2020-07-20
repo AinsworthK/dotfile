@@ -1,0 +1,8 @@
+#!/bin/zsh
+bspc rule -a firefox:Navigator -o node=@^1:^1:/
+bspc rule -a Alacritty:Alacritty -o node=@^1:^2:/1/1
+bspc rule -a Alacritty:Alacritty -o node=@^1:^2:/1/2
+bspc rule -a Alacritty:Alacritty -o node=@^1:^2:/2
+bspc rule -a Alacritty:Alacritty -o node=@^1:^3:/
+bspc rule -a Thunderbird:Mail -o node=@^1:^4:/
+bspc rule -a Alacritty:Alacritty -o node=@^1:^5:/

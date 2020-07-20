@@ -1,0 +1,7 @@
+2020/04/22-20:33:03.862 56185 Reusing MANIFEST /home/yat/.config/chromium/Default/IndexedDB/https_bttsqjy6dnv05acplp5vy0mflgrh3z.ext-twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/22-20:33:03.862 56185 Recovering log #3
+2020/04/22-20:33:03.863 56185 Reusing old log /home/yat/.config/chromium/Default/IndexedDB/https_bttsqjy6dnv05acplp5vy0mflgrh3z.ext-twitch.tv_0.indexeddb.leveldb/000003.log 
+2020/04/22-20:34:09.113 2f7f9 Level-0 table #5: started
+2020/04/22-20:34:09.114 2f7f9 Level-0 table #5: 4522 bytes OK
+2020/04/22-20:34:09.118 2f7f9 Delete type=0 #3
+2020/04/22-20:34:09.118 2f7f9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

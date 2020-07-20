@@ -1,0 +1,5 @@
+2020/04/18-11:45:06.510 11e88 Reusing MANIFEST /home/yat/.config/chromium/Default/IndexedDB/https_www.d1-dm.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/18-11:46:54.428 19bb Level-0 table #5: started
+2020/04/18-11:46:54.429 19bb Level-0 table #5: 800 bytes OK
+2020/04/18-11:46:54.432 19bb Delete type=0 #3
+2020/04/18-11:46:54.432 19bb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

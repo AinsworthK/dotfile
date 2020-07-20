@@ -1,0 +1,6 @@
+2020/06/01-18:09:53.036 e74f Reusing MANIFEST /home/yat/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/06/01-18:09:53.038 e74f Recovering log #4179
+2020/06/01-18:09:53.038 e74f Reusing old log /home/yat/.config/chromium/Default/Local Storage/leveldb/004179.log 
+2020/06/01-18:10:12.436 e997 Level-0 table #4183: started
+2020/06/01-18:10:12.442 e997 Level-0 table #4183: 29314 bytes OK
+2020/06/01-18:10:12.454 e997 Delete type=0 #4179

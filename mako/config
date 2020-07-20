@@ -1,0 +1,7 @@
+font=Hack 9
+background-color=#2E3440E5
+text-color=#D8DEE9FF
+border-size=0
+[app-name=Brave]
+default-timeout=1
+ignore-timeout=1

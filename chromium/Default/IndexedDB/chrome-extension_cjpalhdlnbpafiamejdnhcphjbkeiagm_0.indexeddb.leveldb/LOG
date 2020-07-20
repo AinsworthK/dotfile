@@ -1,0 +1,8 @@
+2020/06/10-14:23:11.854 5d95 Reusing MANIFEST /home/yat/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/10-14:23:11.855 5d95 Recovering log #94
+2020/06/10-14:23:11.855 5d95 Reusing old log /home/yat/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000094.log 
+2020/06/10-14:23:13.857 5ec9 Level-0 table #99: started
+2020/06/10-14:23:13.857 5ec9 Level-0 table #99: 0 bytes OK
+2020/06/10-14:23:13.863 5ec9 Delete type=0 #94
+2020/06/10-14:23:13.863 5ec9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/10-14:23:13.863 5ec9 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

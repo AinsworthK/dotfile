@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/yat/.config/wpg/wallpapers/PmaWP5j.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#040404",
+        "foreground": "#eee8cb",
+        "cursor": "#eee8cb"
+    },
+    "colors": {
+        "color0": "#040404",
+        "color1": "#03B2C6",
+        "color2": "#30B9CD",
+        "color3": "#4BBDD1",
+        "color4": "#58C1D4",
+        "color5": "#65C7D3",
+        "color6": "#A2B4A4",
+        "color7": "#eee8cb",
+        "color8": "#a6a28e",
+        "color9": "#03B2C6",
+        "color10": "#30B9CD",
+        "color11": "#4BBDD1",
+        "color12": "#58C1D4",
+        "color13": "#65C7D3",
+        "color14": "#A2B4A4",
+        "color15": "#eee8cb"
+    }
+}
